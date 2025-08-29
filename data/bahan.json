@@ -1,0 +1,58 @@
+[
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "tipe": "LKPD",
+        "nama": "LKPD Aljabar Dasar",
+        "link": "https://example.com/lkpd-aljabar-dasar.pdf"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "tipe": "LKPD",
+        "nama": "LKPD Persamaan Linear",
+        "link": "https://example.com/lkpd-persamaan-linear.pdf"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "tipe": "Media",
+        "nama": "Video Pembelajaran Aljabar",
+        "link": "https://example.com/video-aljabar.mp4"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "tipe": "Media",
+        "nama": "Simulasi Interaktif Persamaan",
+        "link": "https://example.com/simulasi-persamaan.html"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "materi": "Teks Eksplanasi",
+        "tipe": "LKPD",
+        "nama": "LKPD Analisis Teks Eksplanasi",
+        "link": "https://example.com/lkpd-analisis-eksplanasi.pdf"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "materi": "Teks Eksplanasi",
+        "tipe": "Media",
+        "nama": "Contoh Teks Eksplanasi Video",
+        "link": "https://example.com/video-eksplanasi.mp4"
+    },
+    {
+        "mapel": "IPA",
+        "materi": "Sistem Ekskresi",
+        "tipe": "LKPD",
+        "nama": "LKPD Sistem Ekskresi Manusia",
+        "link": "https://example.com/lkpd-sistem-ekskresi.pdf"
+    },
+    {
+        "mapel": "IPA",
+        "materi": "Sistem Ekskresi",
+        "tipe": "Media",
+        "nama": "Animasi Sistem Ekskresi",
+        "link": "https://example.com/animasi-ekskresi.mp4"
+    }
+]
