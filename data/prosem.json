@@ -1,0 +1,62 @@
+[
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "semester": "1",
+        "materi": "Aljabar",
+        "tanggal": "01-07 Juli 2023",
+        "jam": "4",
+        "skk": "2",
+        "keterangan": "Pertemuan 1-2"
+    },
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "semester": "1",
+        "materi": "Persamaan Kuadrat",
+        "tanggal": "08-14 Juli 2023",
+        "jam": "6",
+        "skk": "3",
+        "keterangan": "Pertemuan 3-5"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "semester": "1",
+        "materi": "Teks Eksplanasi",
+        "tanggal": "01-14 Juli 2023",
+        "jam": "8",
+        "skk": "4",
+        "keterangan": "Pertemuan 1-4"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "semester": "1",
+        "materi": "Teks Prosedur",
+        "tanggal": "15-28 Juli 2023",
+        "jam": "8",
+        "skk": "4",
+        "keterangan": "Pertemuan 5-8"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "semester": "1",
+        "materi": "Sistem Ekskresi",
+        "tanggal": "01-21 Juli 2023",
+        "jam": "12",
+        "skk": "6",
+        "keterangan": "Pertemuan 1-6"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "semester": "1",
+        "materi": "Sistem Reproduksi",
+        "tanggal": "22 Juli-04 Agustus 2023",
+        "jam": "10",
+        "skk": "5",
+        "keterangan": "Pertemuan 7-11"
+    }
+]
