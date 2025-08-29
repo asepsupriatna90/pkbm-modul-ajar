@@ -1,0 +1,98 @@
+[
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "materi": "Aljabar",
+        "cp": [
+            "CP1: Menjelaskan konsep variabel dan konstanta",
+            "CP2: Menyelesaikan persamaan linear satu variabel",
+            "CP3: Memodelkan masalah nyata dengan persamaan linear"
+        ],
+        "atp": [
+            "ATP1: Mengidentifikasi variabel dan konstanta dalam persamaan",
+            "ATP2: Menyelesaikan persamaan linear sederhana",
+            "ATP3: Membuat model matematika dari masalah sehari-hari"
+        ],
+        "sarpras": [
+            "Papan tulis dan spidol",
+            "LKS Aljabar",
+            "Kalkulator sederhana",
+            "LCD Proyektor"
+        ],
+        "metode": [
+            "Ceramah interaktif",
+            "Diskusi kelompok",
+            "Penemuan terbimbing",
+            "Latihan soal"
+        ],
+        "kegiatan": [
+            "Pendahuluan: Apersepsi konsep aljabar (15 menit)",
+            "Inti: Penjelasan variabel dan penyelesaian persamaan (60 menit)",
+            "Penutup: Evaluasi dan tugas rumah (15 menit)"
+        ],
+        "lkpd": [
+            {
+                "nama": "LKPD Aljabar Dasar",
+                "link": "https://example.com/lkpd-aljabar-dasar.pdf"
+            },
+            {
+                "nama": "LKPD Persamaan Linear",
+                "link": "https://example.com/lkpd-persamaan-linear.pdf"
+            }
+        ],
+        "instrumen": [
+            {
+                "nama": "Rubrik Penilaian Tugas",
+                "link": "https://example.com/rubrik-tugas-aljabar.pdf"
+            },
+            {
+                "nama": "Soal Evaluasi Aljabar",
+                "link": "https://example.com/soal-evaluasi-aljabar.pdf"
+            }
+        ]
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "materi": "Teks Eksplanasi",
+        "cp": [
+            "CP1: Mengidentifikasi struktur teks eksplanasi",
+            "CP2: Menganalisis kaidah kebahasaan teks eksplanasi",
+            "CP3: Menyusun teks eksplanasi tentang fenomena alam"
+        ],
+        "atp": [
+            "ATP1: Mengidentifikasi bagian-bagian teks eksplanasi",
+            "ATP2: Menganalisis penggunaan konjungsi dan istilah teknis",
+            "ATP3: Menulis teks eksplanasi dengan struktur yang benar"
+        ],
+        "sarpras": [
+            "Contoh teks eksplanasi",
+            "Laptop dan proyektor",
+            "Kertas buram",
+            "Kamus Bahasa Indonesia"
+        ],
+        "metode": [
+            "Studi kasus",
+            "Analisis teks",
+            "Workshop menulis",
+            "Presentasi"
+        ],
+        "kegiatan": [
+            "Pendahuluan: Menonton video fenomena alam (10 menit)",
+            "Inti: Analisis teks dan praktik menulis (70 menit)",
+            "Penutup: Presentasi hasil kerja (10 menit)"
+        ],
+        "lkpd": [
+            {
+                "nama": "LKPD Analisis Teks Eksplanasi",
+                "link": "https://example.com/lkpd-analisis-eksplanasi.pdf"
+            }
+        ],
+        "instrumen": [
+            {
+                "nama": "Rubrik Penilaian Menulis Eksplanasi",
+                "link": "https://example.com/rubrik-menulis-eksplanasi.pdf"
+            }
+        ]
+    }
+]
