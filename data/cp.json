@@ -1,0 +1,44 @@
+[
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "fase": "Fase E",
+        "cp": "CP1: Menjelaskan konsep variabel dan konstanta"
+    },
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "fase": "Fase E",
+        "cp": "CP2: Menyelesaikan persamaan linear satu variabel"
+    },
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "fase": "Fase E",
+        "cp": "CP3: Memodelkan masalah nyata dengan persamaan linear"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "fase": "Fase F",
+        "cp": "CP1: Mengidentifikasi struktur teks eksplanasi"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "fase": "Fase F",
+        "cp": "CP2: Menganalisis kaidah kebahasaan teks eksplanasi"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "fase": "Fase F",
+        "cp": "CP1: Menjelaskan sistem ekskresi pada manusia"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "fase": "Fase F",
+        "cp": "CP2: Menganalisis gangguan pada sistem ekskresi"
+    }
+]
