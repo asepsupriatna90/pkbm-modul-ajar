@@ -1,0 +1,66 @@
+[
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "jenis": "Diagnostik",
+        "tipe": "Soal",
+        "nama": "Tes Diagnostik Konsep Aljabar",
+        "link": "https://example.com/tes-diagnostik-aljabar.pdf"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "jenis": "Formatif",
+        "tipe": "Soal",
+        "nama": "Soal Latihan Persamaan Linear",
+        "link": "https://example.com/soal-latihan-linear.pdf"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "jenis": "Sumatif",
+        "tipe": "Soal",
+        "nama": "Ulangan Harian Aljabar",
+        "link": "https://example.com/ulangan-aljabar.pdf"
+    },
+    {
+        "mapel": "Matematika",
+        "materi": "Aljabar",
+        "jenis": "Formatif",
+        "tipe": "Rubrik",
+        "nama": "Rubrik Penilaian Tugas Aljabar",
+        "link": "https://example.com/rubrik-tugas-aljabar.pdf"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "materi": "Teks Eksplanasi",
+        "jenis": "Diagnostik",
+        "tipe": "Soal",
+        "nama": "Tes Diagnostik Teks Eksplanasi",
+        "link": "https://example.com/tes-diagnostik-eksplanasi.pdf"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "materi": "Teks Eksplanasi",
+        "jenis": "Sumatif",
+        "tipe": "Rubrik",
+        "nama": "Rubrik Penilaian Menulis Eksplanasi",
+        "link": "https://example.com/rubrik-menulis-eksplanasi.pdf"
+    },
+    {
+        "mapel": "IPA",
+        "materi": "Sistem Ekskresi",
+        "jenis": "Formatif",
+        "tipe": "Observasi",
+        "nama": "Lembar Observasi Praktikum Ekskresi",
+        "link": "https://example.com/observasi-ekskresi.pdf"
+    },
+    {
+        "mapel": "IPA",
+        "materi": "Sistem Ekskresi",
+        "jenis": "Sumatif",
+        "tipe": "Soal",
+        "nama": "Ulangan Akhir Bab Ekskresi",
+        "link": "https://example.com/ulangan-ekskresi.pdf"
+    }
+]
