@@ -1,0 +1,44 @@
+[
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "materi": "Aljabar",
+        "atp": "ATP1: Mengidentifikasi variabel dan konstanta dalam persamaan"
+    },
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "materi": "Aljabar",
+        "atp": "ATP2: Menyelesaikan persamaan linear sederhana"
+    },
+    {
+        "mapel": "Matematika",
+        "kelas": "X",
+        "materi": "Aljabar",
+        "atp": "ATP3: Membuat model matematika dari masalah sehari-hari"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "materi": "Teks Eksplanasi",
+        "atp": "ATP1: Mengidentifikasi bagian-bagian teks eksplanasi"
+    },
+    {
+        "mapel": "Bahasa Indonesia",
+        "kelas": "XI",
+        "materi": "Teks Eksplanasi",
+        "atp": "ATP2: Menganalisis penggunaan konjungsi dan istilah teknis"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "materi": "Sistem Ekskresi",
+        "atp": "ATP1: Mengidentifikasi organ-organ sistem ekskresi"
+    },
+    {
+        "mapel": "IPA",
+        "kelas": "XII",
+        "materi": "Sistem Ekskresi",
+        "atp": "ATP2: Menjelaskan fungsi masing-masing organ ekskresi"
+    }
+]
